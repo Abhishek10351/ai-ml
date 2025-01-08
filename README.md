@@ -3,7 +3,7 @@
 
 ## Introduction
 
-This notebook is a part of the AI-ML Basics series. It contains the basic concepts of AI and ML.
+This notebook is a part of the AI-ML Basics series. It contains the basic concepts of AI and ML, along with the tools used.
 The courses used as reference are:
 
 1. [ML Crash Course by Google](https://developers.google.com/machine-learning/crash-course/ml-intro)

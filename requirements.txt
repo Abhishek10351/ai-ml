@@ -1,3 +1,6 @@
 jupyterlab
 notebook
 voila
+numpy
+pandas
+scikit-learn

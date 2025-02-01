@@ -5,7 +5,7 @@ This directory contains tools and utilities that are useful for machine learning
 
 ## Tools
 
-- [Numpy](./numpy)]
+- [Numpy](./numpy)
 - [Pandas](./pandas)
 - [Matplotlib](./matplotlib)
 - [Scikit-learn](./sk-learn)

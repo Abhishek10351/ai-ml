@@ -33,3 +33,4 @@ These are the following notebooks that I have created, it contains in depth expl
 2. [Data Preprocessing](./data-processing.ipynb) -  Cleaning and preprocessing the data using pandas and numpy (along with sklean).
 3. [Models](./models.ipynb) -  Implementation of different models in scikit-learn.
 4. [Fit and Predict](./fit-and-predict.ipynb) -  Fitting the model and making predictions.
+5. [Evaluating Models](./model-evaluation.ipynb) -  Evaluating the models using different metrics.
